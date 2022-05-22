@@ -4,5 +4,5 @@
 
 使用 `cd myspider`, 然后`scrapy crawl weather --nolog`
 
-![image-20220522153411407]([README.assets\image-20220522153411407.png](https://github.com/karlhl/animation-spider/blob/main/README.assets/image-20220522153411407.png))
+![image-20220522153411407](README.assets\image-20220522153411407.png)
 
